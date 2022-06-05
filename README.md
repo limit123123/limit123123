@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on 英伦刚强工作室...<br>
-🌱 I’m currently learning nlp and deep learning..
-💬 Ask me about python,java,c and project need
-📫 How to reach me: vx:(bj-caubjut-newstart)
+🌱 I’m currently learning nlp and deep learning..<br>
+💬 Ask me about python,java,c and project need<br>
+📫 How to reach me: vx:(bj-caubjut-newstart)(When you have project need!!)<br>
+You hava any question can email(1029930857@qq.com)
 
