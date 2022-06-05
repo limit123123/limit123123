@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Kevin .THis is my blog;
 
 <!--
 **limit123123/limit123123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on 英伦刚强工作室...
+🌱 I’m currently learning nlp and deep learning..
+💬 Ask me about python,java,c and project need
+📫 How to reach me: vx:(bj-caubjut-newstart)
+
