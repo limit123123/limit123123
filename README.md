@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 💬 Ask me about python,java,c and project need<br>
 📫 How to reach me: vx:(bj-caubjut-newstart)(When you have project need!!)<br>
 You hava any question can email(1029930857@qq.com)
+![Metrics](https://metrics.lecoq.io/limit123123?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
-![Visitor Count](https://profile-counter.glitch.me/limit123123/count.svg)
+Visitor Count:![Visitor Count](https://profile-counter.glitch.me/limit123123/count.svg)
 
