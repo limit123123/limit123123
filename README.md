@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning nlp and deep learning..<br>
 💬 Ask me about python,java,c and project need<br>
 📫 How to reach me: vx:(bj-caubjut-newstart)(When you have project need!!)<br>
-You hava any question can email(1029930857@qq.com)<br>
+You hava any question can email(john2022060616@163.com)<br>
 ![Metrics](https://metrics.lecoq.io/limit123123?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limit123123)](https://github.com/limit123123/github-readme-stats)
