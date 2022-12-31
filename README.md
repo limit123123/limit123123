@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I am currently engaged in computer project development, completing assignment, and tutoring students in computer courses.
-- 🌱 I’m currently learning nlp and deep learning..
 - 👯 If you have quiz,final, assignment, and project requirements, you can contact me for cooperation.
 - 💬 You can ask me about any project requirements through WeChat and email.
 - 📫 How to reach me: (wechat):codinggoodhh
@@ -15,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on 英伦刚强工作室...<br>
-🌱 I’m currently learning nlp and deep learning..<br>
-💬 Ask me about python,java,c and project need<br>
+🌱 I am currently engaged in computer project development, completing assignment, and tutoring students in computer courses.<br>
+👯 If you have quiz,final, assignment, and project requirements, you can contact me for cooperation.<br>
+💬 You can ask me about any project requirements through WeChat and email.
 📫 How to reach me: vx:(codinggoodhh)(When you have project need!!)<br>
 You hava any question can email(john2022060616@163.com)<br>
 ![Metrics](https://metrics.lecoq.io/limit123123?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)<br>
