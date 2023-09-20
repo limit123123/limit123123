@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on TaoBao:英伦刚强工作室...<br>
+📫 Wechat:(codinggoodhh)<br>
+You hava any question can email(john2022060616@163.com)<br>
 🌱 I am currently engaged in computer project development, completing assignment, and tutoring students in computer courses.<br>
 👯 If you have quiz,final, assignment, and project requirements, you can contact me for cooperation.<br>
 💬 You can ask me about any project requirements through WeChat and email.<br>
-📫 How to reach me: wechat:(codinggoodhh)<br>
-You hava any question can email(john2022060616@163.com)<br>
+
 (When you have project need!!)<br>
 
 ![Metrics](https://metrics.lecoq.io/limit123123?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)<br>
